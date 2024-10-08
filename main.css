@@ -1,0 +1,88 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.otaa {
+    width: 1160px;
+    height: 833px;
+    border-radius: 40px;
+    background: rgb(52, 60, 86);
+    margin: 140px auto;
+
+}
+
+.bola {
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    background: rgb(255, 1, 1);
+    font-size: 12px;
+    font-weight: 700;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ot {
+    display: flex;
+    gap: 65px;
+    padding-left: 84px;
+    padding-top: 46px;
+}
+
+.o {
+    display: flex;
+    gap: 200px;
+    padding-left: 80px;
+    padding-top: 68px;
+}
+
+.flex {
+
+    display: flex;
+    justify-content: center;
+    padding-top: 41px;
+
+}
+
+.flexbola {
+    width: 264px;
+    height: 118px;
+    border-radius: 40px;
+    background-color: hwb(0 0% 100%);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+.c {
+    display: flex;
+    gap: 200px;
+    padding-left: 80px;
+    padding-top: 41px;
+}
+.cb {
+    width: 400px;
+    height: 200px;
+border-radius: 50px;
+background: rgb(235, 22, 22);
+display: flex;
+justify-content: center;
+padding-top: 45px;
+padding-bottom: 46px;
+}
+.cn {
+    width: 300px;
+height: 109px;
+background: rgb(97, 255, 0);
+font-size: 12px;
+font-weight: 700;
+text-align: center;
+padding-top: 28px;
+padding-bottom: 21px ;
+}
